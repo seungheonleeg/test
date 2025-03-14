@@ -10,7 +10,7 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/ #디렉토리 파일임
+dist/ #/는 디렉토리 파일임
 downloads/
 eggs/
 .eggs/
